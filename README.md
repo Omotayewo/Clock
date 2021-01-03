@@ -1,2 +1,2 @@
 # Clock
-https://omotayewo.github.io/Clock/analog_clock.html
+https://omotayewo.github.io/Clock/index.html
